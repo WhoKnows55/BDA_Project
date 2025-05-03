@@ -54,7 +54,7 @@ Follow these steps to set up your local development environment:
 
 4. **Register Kernel**
 ```bash
-BDA % python -m ipykernel install --user --name BDA_env --display-name "Python BDA_env"
+python -m ipykernel install --user --name BDA_env --display-name "Python BDA_env"
 ```
 5. **Open Jupyter Notebook**
    - Navigate to the `Notebooks` folder
