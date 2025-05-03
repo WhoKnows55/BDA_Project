@@ -90,7 +90,7 @@ python -m ipykernel install --user --name BDA_env --display-name "Python BDA_env
 | Name              | Student Number | 
 |:------------------|:----------------|
 | Philippe Duntranoit | 20231234        | 
-| Julia Karpienia   | 20235678        | 
+| Julia Karpienia   | 20240514        | 
 | Daan Van Holten   | 20239876        | 
 | Benedikt Ruggaber  | 20240500   | 
 | Joshua Wehr  | 20240501   | 
