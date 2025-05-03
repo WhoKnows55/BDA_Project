@@ -1,0 +1,18 @@
+pyspark>=3.5.0
+pandas>=2.2.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+scikit-learn>=1.4.0
+ipykernel==6.29.5
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+Markdown==3.7
+markdown-it-py==3.0.0
+MarkupSafe==3.0.2
+matplotlib==3.10.1
+matplotlib-inline==0.1.7
+# text processing (for a Twitter sentiment analysis project idea)
+#nltk>=3.8.0
+# streaming data or JSON APIs:
+# requests>=2.31.0
