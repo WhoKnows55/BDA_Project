@@ -1,5 +1,7 @@
 # 📊 Big Data Analytics Project — DSAA 2024/2025
 
+Project report: https://liveeduisegiunl-my.sharepoint.com/:w:/g/personal/20240501_novaims_unl_pt/EaSHSiCQBJRCrw0s_a0jlhUB7EHvOa4gVVv58rHZ8ianEQ?rtime=3xys4Zmc3Ug
+
 Welcome to our **Big Data Analytics (BDA)** project for the **NOVA IMS Master in Data Science & Advanced Analytics**!  
 This repository contains the code, notebooks, and resources used to process, analyze, and visualize large datasets using Apache Spark on **Databricks Community Edition**.
 
