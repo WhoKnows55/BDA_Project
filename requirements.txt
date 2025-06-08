@@ -11,7 +11,5 @@ Markdown==3.7
 markdown-it-py==3.0.0
 matplotlib==3.10.1
 matplotlib-inline==0.1.7
-# text processing (for a Twitter sentiment analysis project idea)
-#nltk>=3.8.0
-# streaming data or JSON APIs: -> for Finnhub
+# streaming data or JSON APIs
 requests>=2.31.0
