@@ -19,20 +19,7 @@ As part of the course deliverables, our project must follow these requirements:
 - **Results & Insights:** Present findings through report
 
 
-### 💡 Example Project Ideas
-- 📈 Stock Market Prediction (Spark MLlib)
-- 🔍 Fraud Detection with Real-time Streaming
-- 🛍️ Customer Segmentation (Clustering)
-- 🌍 Air Pollution Trend Analysis
-- 📱 Twitter Sentiment Analysis (NLP)
-- 📦 E-commerce Recommendation Systems
-- 🐝 Biodiversity Monitoring with Satellite Data
-
-> ⚠️ **Bonus:** Additional points available for integrating **Streaming** and **GraphX**
-
----
-
-## 🛠Installation Guide
+## Installation Guide
 
 Follow these steps to set up your local development environment:
 
