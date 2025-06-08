@@ -1,4 +1,5 @@
 # Big Data Analytics Project — DSAA 2024/2025
+## FORECASTING APPLE’S STOCKS USING BIG DATA ANALYTICS AND MACHINE LEARNING 
 
 Project report: https://liveeduisegiunl-my.sharepoint.com/:w:/g/personal/20240501_novaims_unl_pt/EaSHSiCQBJRCrw0s_a0jlhUB7EHvOa4gVVv58rHZ8ianEQ?rtime=3xys4Zmc3Ug
 
@@ -58,22 +59,14 @@ python -m ipykernel install --user --name BDA_env --display-name "Python BDA_env
 
 ---
 
-## 📝 Workflow Suggestion (a.k.a. Mr. Gigachad's Advice)
-
-> For simplicity and efficiency:
-- ✅ Develop and test simple transformations locally using **Jupyter + PySpark**.
-- 🚀 Execute final data processing, MLlib models, and visualizations in **Databricks Notebooks** attached to your Databricks cluster.
-
----
-
-## 📊 Deliverables
+## Deliverables
 
 -  **Technical Report** (3–5 pages)
 -  **Source Code (Databricks Notebook)**  
 
 ---
 
-## 👥 Team Members Group 22
+## Team Members Group 22
 
 | Name              | Student Number | 
 |:------------------|:----------------|
