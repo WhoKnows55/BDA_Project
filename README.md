@@ -1,5 +1,5 @@
 # Big Data Analytics Project — DSAA 2024/2025
-## FORECASTING APPLE’S STOCKS USING BIG DATA ANALYTICS AND MACHINE LEARNING 
+## Forecasting Apple's Stock Using Big Data Analytics and Machine Learning
 
 Project report: https://liveeduisegiunl-my.sharepoint.com/:w:/g/personal/20240501_novaims_unl_pt/EaSHSiCQBJRCrw0s_a0jlhUB7EHvOa4gVVv58rHZ8ianEQ?rtime=3xys4Zmc3Ug
 
@@ -7,6 +7,11 @@ Welcome to our **Big Data Analytics (BDA)** project for the **NOVA IMS Master in
 This repository contains the code, notebooks, and resources used to process, analyze, and visualize large datasets using Apache Spark on **Databricks Community Edition**.
 
 ---
+
+## Project Summary
+
+The goal of this project is to empower individual investors by predicting Apple Inc.'s stock performance using Big Data tools and machine learning models. We stream and preprocess financial data, engineer predictive features, and implement LSTM and Random Forest-based strategies to simulate portfolio performance and guide investment decisions.
+
 
 ##  Project Guidelines
 
@@ -22,8 +27,11 @@ As part of the course deliverables, our project must follow these requirements:
 
 ## Deliverables
 
--  **Technical Report** (3–5 pages)
--  **Source Code (Databricks Notebook)**  
+-  **Technical Report** – Detailed analysis and project explanation
+- **Databricks Notebook** – All code for data processing, feature engineering, modeling, and evaluation
+- **Portfolio Simulation Outputs** – Strategy vs. benchmark comparison
+- **Random Forest Strategy** – Classification-based trading strategy
+- **Model Selection Insights** – LSTM model comparison and rationale
 
 ---
 
