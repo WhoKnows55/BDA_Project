@@ -20,45 +20,6 @@ As part of the course deliverables, our project must follow these requirements:
 - **Results & Insights:** Present findings through report
 
 
-## Installation Guide
-
-Follow these steps to set up your local development environment:
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/BDA_Project.git
-   cd BDA_Project
-   ```
-
-2. **Create a Python Virtual Environment**
-   (from one folder up — outside the repo)
-   ```bash
-   python3.11 -m venv BDA_env
-   source BDA_env/bin/activate
-   ```
-
-3. **Install Required Dependencies**
-   ```bash
-   pip install -r BDA_Project/requirements.txt
-   ```
-
-4. **Register Kernel**
-```bash
-python -m ipykernel install --user --name BDA_env --display-name "Python BDA_env"
-```
-5. **Open Jupyter Notebook**
-   - Navigate to the `Notebooks` folder
-   - Select **BDA_env** as the active kernel
-
-**Note for Graph Analytics**
-   - If using **GraphFrames** on Databricks:
-     ```python
-     spark.sparkContext.addPyFile("path_to_graphframes_package")
-     ```
-
-
----
-
 ## Deliverables
 
 -  **Technical Report** (3–5 pages)
@@ -78,7 +39,7 @@ python -m ipykernel install --user --name BDA_env --display-name "Python BDA_env
 
 ---
 
-## 📎 License
+## License
 
 This project is part of the **NOVA IMS Big Data Analytics** course and is for academic use only.
 
