@@ -10,7 +10,7 @@ This repository contains the code, notebooks, and resources used to process, ana
 
 ## Project Summary
 
-The goal of this project is to empower individual investors by predicting Apple Inc.'s stock performance using Big Data tools and machine learning models. We stream and preprocess financial data, engineer predictive features, and implement LSTM and Random Forest-based strategies to simulate portfolio performance and guide investment decisions.
+The goal of this project is to empower individual investors by predicting Apple Inc.'s stock performance using Big Data tools and machine learning models. We stream and preprocess financial data, engineer predictive features, and implement LSTM and Random Forest-based strategies to simulate investment decisions.
 
 
 ##  Project Guidelines
