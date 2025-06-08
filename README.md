@@ -1,4 +1,4 @@
-# 📊 Big Data Analytics Project — DSAA 2024/2025
+# Big Data Analytics Project — DSAA 2024/2025
 
 Project report: https://liveeduisegiunl-my.sharepoint.com/:w:/g/personal/20240501_novaims_unl_pt/EaSHSiCQBJRCrw0s_a0jlhUB7EHvOa4gVVv58rHZ8ianEQ?rtime=3xys4Zmc3Ug
 
@@ -7,17 +7,17 @@ This repository contains the code, notebooks, and resources used to process, ana
 
 ---
 
-## 📌 Project Guidelines
+##  Project Guidelines
 
 As part of the course deliverables, our project must follow these requirements:
 
-### 📖 Requirements
+### Requirements
 - **Problem Definition:** Identify a relevant Big Data problem.
 - **Data Collection & Preprocessing:** Obtain, clean, and preprocess large datasets.
 - **Big Data Processing:** Use **Apache Spark Modules** (SQL, MLlib, or Streaming).
 - **Data Analysis & Visualization:** Apply machine learning, statistics, or BI tools.
-- **Results & Insights:** Present findings through dashboards, visualizations, or reports.
-- **Project Presentation:** Deliver a 7–10 min presentation, followed by Q&A.
+- **Results & Insights:** Present findings through report
+
 
 ### 💡 Example Project Ideas
 - 📈 Stock Market Prediction (Spark MLlib)
@@ -32,7 +32,7 @@ As part of the course deliverables, our project must follow these requirements:
 
 ---
 
-## 🛠️ Installation Guide
+## 🛠Installation Guide
 
 Follow these steps to set up your local development environment:
 
@@ -81,9 +81,8 @@ python -m ipykernel install --user --name BDA_env --display-name "Python BDA_env
 
 ## 📊 Deliverables
 
-- 📓 **Technical Report** (3–5 pages)
-- 📝 **Source Code (Databricks Notebook)**  
-- 🎥 **Presentation (7–10 min)**
+-  **Technical Report** (3–5 pages)
+-  **Source Code (Databricks Notebook)**  
 
 ---
 
